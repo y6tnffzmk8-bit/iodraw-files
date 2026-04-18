@@ -92,10 +92,10 @@
           <mxGeometry x="3520" y="338" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-705" value="后台管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3847.13" y="364" width="156" height="49" as="geometry" />
+          <mxGeometry x="3835" y="358" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-706" value="用户表" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3616" y="440" width="63" height="59" as="geometry" />
+          <mxGeometry x="3737" y="466" width="63" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-707" value="管理员表" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3850.13" y="464" width="79" height="63" as="geometry" />
