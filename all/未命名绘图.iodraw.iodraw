@@ -57,10 +57,10 @@
           <mxGeometry x="2898" y="2000" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-996" value="后端服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3340" y="2000" width="140" height="49" as="geometry" />
+          <mxGeometry x="3096" y="1980" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-997" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1900" width="140" height="49" as="geometry" />
+          <mxGeometry x="3770" y="2460" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-998" value="登录/注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1920" y="2497" width="132" height="49" as="geometry" />
