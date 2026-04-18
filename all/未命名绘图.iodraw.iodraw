@@ -54,10 +54,10 @@
           <mxGeometry x="2450" y="2360" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-995" value="管理员端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2810" y="1910" width="124" height="49" as="geometry" />
+          <mxGeometry x="2898" y="2000" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-996" value="后端服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3318" y="1900" width="140" height="49" as="geometry" />
+          <mxGeometry x="3340" y="2000" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-997" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3640" y="1900" width="140" height="49" as="geometry" />
