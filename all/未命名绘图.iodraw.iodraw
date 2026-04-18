@@ -8,21 +8,16 @@
           <mxGeometry x="2545" y="1430" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-984" value="用户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="1540" width="108" height="49" as="geometry" />
+          <mxGeometry x="2100" y="1550" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-985" value="管理员端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2390" y="1740" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UKhjK2A2MGANYi3nk79o-992" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKhjK2A2MGANYi3nk79o-986">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2950" y="1820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-986" value="后端服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="1660" width="140" height="49" as="geometry" />
+          <mxGeometry x="2890" y="1740" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-987" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3260" y="1540" width="140" height="49" as="geometry" />
+          <mxGeometry x="3220" y="1550" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UKhjK2A2MGANYi3nk79o-988" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="UKhjK2A2MGANYi3nk79o-983" target="UKhjK2A2MGANYi3nk79o-984">
           <mxGeometry relative="1" as="geometry">
