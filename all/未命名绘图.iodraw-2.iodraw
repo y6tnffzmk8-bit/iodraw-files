@@ -4,6 +4,105 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-1" value="业务发生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-2" value="确认金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="119" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-3" value="收款/付款/退款" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="217" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-4" value="取得或开具发票" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="316" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-5" value="审核单据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="414" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-6" value="会计入账" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="513" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-7" value="银行/平台/系统对账" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="611" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-8" value="月末结账" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="710" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-9" value="计算税费" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="808" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-10" value="税务申报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="907" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-11" value="缴纳税款" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1005" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-12" value="生成报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1104" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-13" value="凭证和发票归档" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="1202" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-1" target="CBc1Mh25J3URSJeiSQDr-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-2" target="CBc1Mh25J3URSJeiSQDr-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-3" target="CBc1Mh25J3URSJeiSQDr-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-4" target="CBc1Mh25J3URSJeiSQDr-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-5" target="CBc1Mh25J3URSJeiSQDr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-6" target="CBc1Mh25J3URSJeiSQDr-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-7" target="CBc1Mh25J3URSJeiSQDr-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-8" target="CBc1Mh25J3URSJeiSQDr-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-9" target="CBc1Mh25J3URSJeiSQDr-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-10" target="CBc1Mh25J3URSJeiSQDr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-11" target="CBc1Mh25J3URSJeiSQDr-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBc1Mh25J3URSJeiSQDr-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CBc1Mh25J3URSJeiSQDr-12" target="CBc1Mh25J3URSJeiSQDr-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
